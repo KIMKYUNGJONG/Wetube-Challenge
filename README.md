@@ -4,13 +4,13 @@ Tutorial Using express, node, mongoDB for youtube Clone site.
 
 ## Pages:
 
--[v] Home \
--[v] Join \
--[v] Login \
--[v] Searching \
--[v] UserDetail \
--[v] EditProfile \
--[v] ChangePassword
+-[x] Home \
+-[x] Join \
+-[x] Login \
+-[x] Searching \
+-[x] UserDetail \
+-[x] EditProfile \
+-[x] ChangePassword
 
 ## progress
 
@@ -20,3 +20,4 @@ Tutorial Using express, node, mongoDB for youtube Clone site.
 - auth 작업완료
 - 2019.7.17 - 비디오플레이어 컨트롤러 작업 완료.
 - 비디오플레이어 녹화 작업 예정.
+- 작업 완료.
